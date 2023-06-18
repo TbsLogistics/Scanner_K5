@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "name": "Nhận hàng có FF",
+        "link": ""
+    },
+    {
+        "id": 1,
+        "name": "Nhận hàng FF",
+        "link": ""
+    },
+    {
+        "id": 2,
+        "name": "Putaway",
+        "link": ""
+    },
+    {
+        "id": 3,
+        "name": "Move Product",
+        "link": ""
+    },
+    {
+        "id": 4,
+        "name": "Xuất hàng có FF",
+        "link": ""
+    },
+    {
+        "id": 5,
+        "name": "Xuất hàng có FF",
+        "link": ""
+    }
+]
